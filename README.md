@@ -71,7 +71,7 @@
 | 46  | Calculate result of series:  $1 + x + x^2 + x^3 + ... + x^n.$                                                           | [Go 🡵 ](./project_46/main.c) |
 | 47  | Calculate result of series:  $-x + x^2 - x^3 + ... x^n.$                                                                | [Go 🡵 ](./project_47/main.c) |
 | 48  | Calculate result of series:  $1 + \frac{x}{1!} + \frac{x^2}{2!} + \frac{x^3}{3!} ... + \frac{x^n}{n!}.$                 | [Go 🡵 ](./project_48/main.c) |
-| 49  | Calculate result of series:  $1 - \frac{x}{1!} + \frac{x^2}{2!} + ... \frac{x^n}{n!}.$                                  | [Go 🡵 ](./project_49/main.c) |
+| 49  | Calculate result of series:  $1 - \frac{x}{1!} + \frac{x^2}{2!} - \frac{x^3}{3!} ... \frac{x^n}{n!}.$                   | [Go 🡵 ](./project_49/main.c) |
 | 50  | Calculate result of series:  $1 + (1 + 2) + (1 + 2 + 3) + ... + (1 + 2 + ... + n).$                                     | [Go 🡵 ](./project_50/main.c) |
 | 51  | Calculate result of series:  $1 + 11 + 111 + 1111 + ... + 11..n..11.$                                                   | [Go 🡵 ](./project_51/main.c) |
 | 52  | Check whether a number is prime or not.                                                                                 | [Go 🡵 ](./project_52/main.c) |
