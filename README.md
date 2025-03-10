@@ -1,7 +1,7 @@
 # ES-CS201 & ES-CS291 - CSCS (2024-2025)
 ### All Lab Programs given till date
 
-| Sl. | Question                                                                                                            | Program                         |
+| Sl. | Question                                                                                                            | Program                      |
 | :-: | ------------------------------------------------------------------------------------------------------------------- | :--------------------------: |
 | 1   | Perform addition.                                                                                                   | [Go 🡵 ](./project_1/main.c)  |
 | 2   | Perform subtraction.                                                                                                | [Go 🡵 ](./project_2/main.c)  |
@@ -70,8 +70,8 @@
 | 45  | Calculate the product of 10 numbers entered by user using for loop.                                                 | [Go 🡵 ](./project_45/main.c) |
 | 46  | Calculate result of series $1 + x + x^2 + x^3 + ... + x^n.$                                                         | [Go 🡵 ](./project_46/main.c) |
 | 47  | Calculate result of series $-x + x^2 - x^3 + ... x^n.$                                                              | [Go 🡵 ](./project_47/main.c) |
-| 48  | Calculate result of series $1 + x/1! + x^2/2! + x^3/3! ... + x^n/n!.$                                               | [Go 🡵 ](./project_48/main.c) |
-| 49  | Calculate result of series $1 - x/1! + x^2/2! + ... x^n/n!.$                                                        | [Go 🡵 ](./project_49/main.c) |
+| 48  | Calculate result of series $1 + \frac{x}{1!} + \frac{x^2|{2!} + \frac{x^3}{3!} ... + \frac{x^n}/{n!}.$              | [Go 🡵 ](./project_48/main.c) |
+| 49  | Calculate result of series $1 - \frac{x}{1! + \frac{x^2}{2!} + ... \frac{x^n}{n!}.$                                 | [Go 🡵 ](./project_49/main.c) |
 | 50  | Calculate result of series $1 + (1 + 2) + (1 + 2 + 3) + ... + (1 + 2 + ... + n).$                                   | [Go 🡵 ](./project_50/main.c) |
 | 51  | Calculate result of series $1 + 11 + 111 + 1111 + ... + 11..n..11.$                                                 | [Go 🡵 ](./project_51/main.c) |
 | 52  | Check whether a number is prime or not.                                                                             | [Go 🡵 ](./project_52/main.c) |
@@ -84,8 +84,8 @@
 | 59  | Check if a number is Krishnamurty or not.                                                                           | [Go 🡵 ](./project_59/main.c) |
 | 60  | Convert binary to decimal and vice-versa.                                                                           | [Go 🡵 ](./project_60/main.c) |
 | 61  | Calculate the GCD of two numbers.                                                                                   | [Go 🡵 ](./project_61/main.c) |
-| 62  | Calculate result of series $1 + 1/2 + 1/3 + ... + 1/n$.                                                             | [Go 🡵 ](./project_62/main.c) |
-| 63  | Calculate result of series $1 + 1/2^2 + 1/3^3 + ... + 1/n^n$.                                                       | [Go 🡵 ](./project_63/main.c) |
-| 64  | Calculate result of series $1/2 + 2/3 + 3/4 + ... + n/(n + 1)$.                                                     | [Go 🡵 ](./project_64/main.c) |
-| 65  | Calculate result of series $1 + 2^2/2 + 3^3/3 + ... + n^n/n$.                                                       | [Go 🡵 ](./project_65/main.c) |
-| 66  | Calculate result of series $x - x^3/3! + x^5/5! - x^7/7! + ... x^(2n + 1)/(2n + 1)!$.                               | [Go 🡵 ](./project_66/main.c) |
+| 62  | Calculate result of series $1 + \frac{1}{2} + \frac{1}{3} + ... + \frac{1}{n}$.                                     | [Go 🡵 ](./project_62/main.c) |
+| 63  | Calculate result of series $1 + \frac{1}{2^2} + \frac{1}{3^3} + ... + \frac{1}{n^n}$.                               | [Go 🡵 ](./project_63/main.c) |
+| 64  | Calculate result of series $\frac{1}{2} + \frac{2}{3} + \frac{3}{4} + ... + \frac{n}{n + 1}$.                       | [Go 🡵 ](./project_64/main.c) |
+| 65  | Calculate result of series $1 + \frac{2^2}{2} + \frac{3^3}{3} + ... + \frac{n^n}{n}$.                               | [Go 🡵 ](./project_65/main.c) |
+| 66  | Calculate result of series $x - \frac{x^3}{3!} + \frac{x^5}{5!} - \frac{x^7}{7!} + ... \frac{x^(2n + 1)}{2n + 1!}$. | [Go 🡵 ](./project_66/main.c) |
