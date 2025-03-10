@@ -84,8 +84,8 @@
 | 59  | Check if a number is Krishnamurty or not.                                                                               | [Go 🡵 ](./project_59/main.c) |
 | 60  | Convert binary to decimal and vice-versa.                                                                               | [Go 🡵 ](./project_60/main.c) |
 | 61  | Calculate the GCD of two numbers.                                                                                       | [Go 🡵 ](./project_61/main.c) |
-| 62  | Calculate result of series:  $1 + \frac{1}{2} + \frac{1}{3} + ... + \frac{1}{n}$.                                       | [Go 🡵 ](./project_62/main.c) |
-| 63  | Calculate result of series:  $1 + \frac{1}{2^2} + \frac{1}{3^3} + ... + \frac{1}{n^n}$.                                 | [Go 🡵 ](./project_63/main.c) |
-| 64  | Calculate result of series:  $\frac{1}{2} + \frac{2}{3} + \frac{3}{4} + ... + \frac{n}{n + 1}$.                         | [Go 🡵 ](./project_64/main.c) |
-| 65  | Calculate result of series:  $1 + \frac{2^2}{2} + \frac{3^3}{3} + ... + \frac{n^n}{n}$.                                 | [Go 🡵 ](./project_65/main.c) |
-| 66  | Calculate result of series:  $x - \frac{x^3}{3!} + \frac{x^5}{5!} - \frac{x^7}{7!} + ... \frac{x^{2n + 1}}{(2n + 1)!}$. | [Go 🡵 ](./project_66/main.c) |
+| 62  | Calculate result of series:  $1 + \frac{1}{2} + \frac{1}{3} + ... + \frac{1}{n}.$                                       | [Go 🡵 ](./project_62/main.c) |
+| 63  | Calculate result of series:  $1 + \frac{1}{2^2} + \frac{1}{3^3} + ... + \frac{1}{n^n}.$                                 | [Go 🡵 ](./project_63/main.c) |
+| 64  | Calculate result of series:  $\frac{1}{2} + \frac{2}{3} + \frac{3}{4} + ... + \frac{n}{n + 1}.$                         | [Go 🡵 ](./project_64/main.c) |
+| 65  | Calculate result of series:  $1 + \frac{2^2}{2} + \frac{3^3}{3} + ... + \frac{n^n}{n}.$                                 | [Go 🡵 ](./project_65/main.c) |
+| 66  | Calculate result of series:  $x - \frac{x^3}{3!} + \frac{x^5}{5!} - \frac{x^7}{7!} + ... \frac{x^{2n + 1}}{(2n + 1)!}.$ | [Go 🡵 ](./project_66/main.c) |
