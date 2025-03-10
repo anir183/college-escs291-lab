@@ -1,7 +1,7 @@
 # ES-CS201 & ES-CS291 - CSCS (2024-2025)
 ### All Lab Programs given till date
 
-| Sl. | Question                                                                                                            | Link                         |
+| Sl. | Question                                                                                                            | Code Link                    |
 | :-: | ------------------------------------------------------------------------------------------------------------------- | :--------------------------: |
 | 1   | Perform addition.                                                                                                   | [Go 🡵 ](./project_1/main.c)  |
 | 2   | Perform subtraction.                                                                                                | [Go 🡵 ](./project_2/main.c)  |
