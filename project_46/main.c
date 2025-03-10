@@ -1,12 +1,12 @@
 #include <stdio.h>
 #include <math.h>
 
-// Write a program to print the sum of series 1 + x/1! + x^2/2! + x^3/3! + ... + x^n/n!
+// Write a program to print the sum of series 1 + x + x^2 + x^3 + ... + x^n
 
 int main() {
     // declarations
     int x, n, i;
-    double sum = 1, fact = 1;
+    static double sum;
 
     // input
     printf("x: ");
@@ -15,10 +15,8 @@ int main() {
     scanf("%d", &n);
 
     // calculation
-    for (i = 1; i <= n; i++) {
-        fact *= i;
-        sum += pow(x, i) / fact;
-    }
+    for (i = 0; i <= n; i++)
+        sum += pow(x, i);
 
     // output
     printf("\nSum = %f", sum);

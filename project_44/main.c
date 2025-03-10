@@ -1,25 +1,21 @@
 #include <stdio.h>
-#include <math.h>
 
-// Write a program to print the sum of series 1 + x + x^2 + x^3 + ... + x^n
+// Write a program to print the sum of 10 user provided natural numbers
 
 int main() {
     // declarations
-    int x, n, i;
-    static double sum;
+    int sum = 0, num, i;
 
-    // input
-    printf("x: ");
-    scanf("%d", &x);
-    printf("n: ");
-    scanf("%d", &n);
-
-    // calculation
-    for (i = 0; i <= n; i++)
-        sum += pow(x, i);
+    // input and calculation
+    printf("Enter 10 natural numbers:\n");
+    for (i = 0; i < 10; i++) {
+        printf("%d: ", i + 1);
+        scanf("%d", &num);
+        sum += num;
+    }
 
     // output
-    printf("\nSum = %f", sum);
+    printf("\nSum = %d", sum);
 
     // exit with code 0
     return 0;
