@@ -89,3 +89,12 @@
 | 64  | Calculate result of series:  $\frac{1}{2} + \frac{2}{3} + \frac{3}{4} + ... + \frac{n}{n + 1}.$                         | [Go 🡵 ](./project_64/main.c) |
 | 65  | Calculate result of series:  $1 + \frac{2^2}{2} + \frac{3^3}{3} + ... + \frac{n^n}{n}.$                                 | [Go 🡵 ](./project_65/main.c) |
 | 66  | Calculate result of series:  $x - \frac{x^3}{3!} + \frac{x^5}{5!} - \frac{x^7}{7!} + ... \frac{x^{2n + 1}}{(2n + 1)!}.$ | [Go 🡵 ](./project_66/main.c) |
+| 67  | Repeatedly divide a number by 2 and print the quotient each time.                                                       | [Go 🡵 ](./project_67/main.c) |
+| 68  | Print the pattern:<br>1<br>2 3<br>4 5 6<br>7 8 9 10                                                                     | [Go 🡵 ](./project_68/main.c) |
+| 69  | Print the pattern:<br>1<br>2 2<br>3 3 3<br>4 4 4 4                                                                      | [Go 🡵 ](./project_69/main.c) |
+| 70  | Print the pattern:<br>1<br>2 2 2<br>3 3 3 3 3<br>4 4 4 4 4 4 4                                                          | [Go 🡵 ](./project_70/main.c) |
+| 71  | Print the pattern:<br>5 5 5 5 5<br>4 4 4 4<br>3 3 3<br>2 2<br>1                                                         | [Go 🡵 ](./project_71/main.c) |
+| 72  | Print the pattern:<br>5<br>4 5<br>3 4 5<br>2 3 4 5<br>1 2 3 4 5                                                         | [Go 🡵 ](./project_72/main.c) |
+| 73  | Print the pattern:<br>\*<br>\* \* \*<br>\* \* \* \* \*<br>\* \* \* \* \* \* \*                                          | [Go 🡵 ](./project_73/main.c) |
+| 74  | Print the pattern:<br>1<br>0 1<br>1 0 1<br>0 1 0 1<br>1 0 1 0 1                                                         | [Go 🡵 ](./project_74/main.c) |
+| 75  | Print the pattern:<br>A<br>B B<br>C C C<br>D D D D                                                                      | [Go 🡵 ](./project_75/main.c) |
