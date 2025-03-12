@@ -5,11 +5,11 @@
 int main() {
 	// declarations
 	char alph;
-	
+
 	// input
 	printf("Enter an alphabet: ");
 	scanf("%c", &alph);
-	
+
 	// check and output
 	switch (alph) {
 		case 'a':
@@ -27,7 +27,7 @@ int main() {
 		default:
 			printf("The alphabet is a Consonant.");
 	}
-	
+
 	// exit with code 0
 	return 0;
 }

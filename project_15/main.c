@@ -5,11 +5,11 @@
 int main() {
 	// declarations
 	int num;
-	
+
 	// input
 	printf("Enter a number: ");
 	scanf("%d", &num);
-	
+
 	// check and output
 	if (num > 0) {
 		printf("The number is positive.");
@@ -20,7 +20,7 @@ int main() {
 	else {
 		printf("The number is zero.");
 	}
-	
+
 	// exit with code 0
 	return 0;
 }

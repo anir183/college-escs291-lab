@@ -5,11 +5,11 @@
 int main() {
 	// declarations
 	int amount, fh, th, oh, fy, ty, tn, ch;
-	
+
 	// input
 	printf("Enter an amount: Rs.");
 	scanf("%d", &amount);
-	
+
 	// calculations
 	fh = amount / 500;
 	amount %= 500;
@@ -24,7 +24,7 @@ int main() {
 	tn = amount / 10;
 	amount %= 10;
 	ch = amount;
-	
+
 	// output
 	printf("\nFive hundreds = %d", fh);
 	printf("\nTwo hundreds = %d", th);
@@ -33,7 +33,7 @@ int main() {
 	printf("\nTwenties = %d", ty);
 	printf("\nTens = %d", tn);
 	printf("\nChange = %d", ch);
-	
+
 	// exit with code 0
 	return 0;
 }

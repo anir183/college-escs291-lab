@@ -5,11 +5,11 @@
 int main() {
 	// declarations
 	int marks;
-	
+
 	// input
 	printf("Enter the marks: ");
 	scanf("%d", &marks);
-	
+
 	// calculations and output
 	if (marks > 100 || marks < 0) {
 		printf("Invalid marks");
@@ -35,7 +35,7 @@ int main() {
 	else {
 		printf("Grade = F");
 	}
-	
+
 	// exit with code 0
 	return 0;
 }

@@ -3,22 +3,22 @@
 // Write a program to print the sum of series 1 + 1/2 + 1/3 + .. + 1/n
 
 int main() {
-    // declarations
-    int n, i;
-    float sum = 0;
+	// declarations
+	int n, i;
+	float sum = 0;
 
-    // input
-    printf("n: ");
-    scanf("%d", &n);
+	// input
+	printf("n: ");
+	scanf("%d", &n);
 
-    // calculation
-    for (i = 1; i <= n; i++) {
-        sum += 1.0 / i;
-    }
+	// calculation
+	for (i = 1; i <= n; i++) {
+		sum += 1.0 / i;
+	}
 
-    // output
-    printf("\nSum = %f", sum);
+	// output
+	printf("\nSum = %f", sum);
 
-    // exit with code 0
-    return 0;
+	// exit with code 0
+	return 0;
 }

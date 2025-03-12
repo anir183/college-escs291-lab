@@ -28,7 +28,7 @@ int main() {
 			i = ++upper - last;
 		}
 	}
-	
+
 	// exit with code 0
 	return 0;
 }

@@ -5,13 +5,13 @@
 int main() {
 	// declarations
 	int lower, upper, i;
-	
+
 	// input
 	printf("Lower limit: ");
 	scanf("%d", &lower);
 	printf("Upper limit: ");
 	scanf("%d", &upper);
-	
+
 	// output
 	i = lower;
 	printf("\nThe required numbers are: ");

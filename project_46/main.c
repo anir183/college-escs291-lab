@@ -4,23 +4,23 @@
 // Write a program to print the sum of series 1 + x + x^2 + x^3 + ... + x^n
 
 int main() {
-    // declarations
-    int x, n, i;
-    static double sum;
+	// declarations
+	int x, n, i;
+	static double sum;
 
-    // input
-    printf("x: ");
-    scanf("%d", &x);
-    printf("n: ");
-    scanf("%d", &n);
+	// input
+	printf("x: ");
+	scanf("%d", &x);
+	printf("n: ");
+	scanf("%d", &n);
 
-    // calculation
-    for (i = 0; i <= n; i++)
-        sum += pow(x, i);
+	// calculation
+	for (i = 0; i <= n; i++)
+		sum += pow(x, i);
 
-    // output
-    printf("\nSum = %f", sum);
+	// output
+	printf("\nSum = %f", sum);
 
-    // exit with code 0
-    return 0;
+	// exit with code 0
+	return 0;
 }

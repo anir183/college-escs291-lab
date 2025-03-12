@@ -5,11 +5,11 @@
 int main() {
 	// declarations
 	char ch;
-	
+
 	// input
 	printf("Enter a character: ");
 	scanf("%c", &ch);
-	
+
 	// check and output
 	if ((ch >= 'A' && ch <= 'Z') || (ch >= 'a' && ch <= 'z')) {
 		printf("The character is an Alphabet.");
@@ -20,7 +20,7 @@ int main() {
 	else {
 		printf("The character is a Special Character.");
 	}
-	
+
 	// exit with code 0
 	return 0;
 }

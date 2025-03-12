@@ -5,7 +5,7 @@
 int main() {
 	// declarations
 	int num1, num2, temp;
-	
+
 	// input
 	printf("Swap");
 	printf("\na = ");
@@ -15,15 +15,15 @@ int main() {
 
 	// before
 	printf("\nBefore swapping, a = %d and b = %d", num1, num2);
-	
+
 	// swapping
 	temp = num1;
 	num1 = num2;
 	num2 = temp;
-	
+
 	// after
 	printf("\nAfter swapping, a = %d and b = %d", num1, num2);
-	
+
 	// exit with code 0
 	return 0;
 }

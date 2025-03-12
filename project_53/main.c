@@ -29,7 +29,7 @@ int main() {
 		}
 	}
 	printf("\nSum of odd numbers: %d\n", oddSum);
-	
+
 	// exit with code 0
 	return 0;
 }

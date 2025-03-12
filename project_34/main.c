@@ -5,11 +5,11 @@
 int main() {
 	// declarations
 	char ch;
-	
+
 	// input
 	printf("Enter the gender character (M/F): ");
 	scanf("%c", &ch);
-	
+
 	// output
 	if (ch == 'm' || ch == 'M') {
 		printf("Male");
@@ -20,7 +20,7 @@ int main() {
 	else {
 		printf("Other or Invalid gender");
 	}
-	
+
 	// exit with code 0
 	return 0;
 }

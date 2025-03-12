@@ -5,11 +5,11 @@
 int main() {
 	// declarations
 	int month_num;
-	
+
 	// input
 	printf("Enter the month number (1-12): ");
 	scanf("%d", &month_num);
-	
+
 	// output
 	switch (month_num) {
 		case 2:
@@ -33,7 +33,7 @@ int main() {
 		default:
 			printf("Invalid month");
 	}
-	
+
 	// exit with code 0
 	return 0;
 }

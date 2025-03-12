@@ -15,7 +15,7 @@ int main() {
 	for (i = num; i > 0; i /= 10) {
 		rev = rev * 10 + i % 10;
 	}
-	
+
 	// checks and output
 	if (rev == num) {
 		printf("The number is Palindrome");
@@ -23,7 +23,7 @@ int main() {
 	else {
 		printf("The number is NOT Palindrome.");
 	}
-	
+
 	// exit with code 0
 	return 0;
 }

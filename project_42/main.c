@@ -11,7 +11,7 @@ int main() {
 	for(i = 1; i <= 10; i++) {
 		printf("%d  ", i);
 	}
-	
+
 	// exit with code 0
 	return 0;
 }

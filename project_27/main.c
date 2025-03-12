@@ -7,7 +7,7 @@ int main() {
 	// declarations
 	int a, b, c;
 	double D, root1, root2;
-	
+
 	// input
 	printf("Calculate roots of quadratic eqn (ax^2 + bx + c = 0):");
 	printf("\na = ");
@@ -16,7 +16,7 @@ int main() {
 	scanf("%d", &b);
 	printf("c = ");
 	scanf("%d", &c);
-	
+
 	// calculations and output
 	D = pow(b * b - 4 * a * c, 0.5);
 	if (D >= 0) {
@@ -27,7 +27,7 @@ int main() {
 	else {
 		printf("\nImaginary roots");
 	}
-	
+
 	// exit with code 0
 	return 0;
 }

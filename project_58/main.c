@@ -18,8 +18,8 @@ int main() {
 		rev = rev * 10 + i % 10;
 	}
 	printf("\nThe reverse is %ld", rev);
-	
-	
+
+
 	// exit with code 0
 	return 0;
 }

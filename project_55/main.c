@@ -19,7 +19,7 @@ int main() {
 			printf("%d  ", i);
 		}
 	}
-	
+
 	// exit with code 0
 	return 0;
 }

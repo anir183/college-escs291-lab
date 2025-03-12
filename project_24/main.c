@@ -5,11 +5,11 @@
 int main() {
 	// declarations
 	int day_num;
-	
+
 	// input
 	printf("Enter a week day number (1-7): ");
 	scanf("%d", &day_num);
-	
+
 	// output
 	if (day_num == 1) {
 		printf("Monday!");
@@ -35,7 +35,7 @@ int main() {
 	else {
 		printf("Invalid week day");
 	}
-	
+
 	// exit with code 0
 	return 0;
 }

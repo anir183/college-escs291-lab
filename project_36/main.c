@@ -5,11 +5,11 @@
 int main() {
 	// declarations
 	int month_num;
-	
+
 	// input
 	printf("Enter the month number (1-12): ");
 	scanf("%d", &month_num);
-	
+
 	// output
 	if (month_num > 12 || month_num < 1) {
 		printf("Invalid month");
@@ -23,7 +23,7 @@ int main() {
 	else {
 		printf("The month has 30 days");
 	}
-	
+
 	// exit with code 0
 	return 0;
 }

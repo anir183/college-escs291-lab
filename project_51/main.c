@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <math.h>
 
 // Write a program to print the sum of series 1 + 11 + 111 + 1111 + ...
 

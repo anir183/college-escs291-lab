@@ -6,11 +6,11 @@ int main() {
 	// declarations
 	int basic;
 	static float hra, da, gross;
-	
+
 	// input
 	printf("Enter the basic salary: Rs.");
 	scanf("%d", &basic);
-	
+
 	// calculations
 	if (basic < 0) {
 		printf("\nInvalid basic salary");
@@ -29,10 +29,10 @@ int main() {
 		da = basic * 0.3;
 	}
 	gross = basic + hra + da;
-	
+
 	// output
 	printf("The gross salary is %f", gross);
-	
+
 	// exit with code 0
 	return 0;
 }

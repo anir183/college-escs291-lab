@@ -6,11 +6,11 @@ int main() {
 	// declarations
 	int units;
 	static float bill;
-	
+
 	// input
 	printf("Enter the amount of units consumed: ");
 	scanf("%d", &units);
-	
+
 	// calculations
 	if (units < 0) {
 		printf("Invalid unit amount");
@@ -35,10 +35,10 @@ int main() {
 		bill += (units - 350) * 1.75;
 	}
 	bill *= 1.2; // 20% surcharge
-	
+
 	// output
 	printf("Electricity bill = Rs.%f", bill);
-	
+
 	// exit with code 0
 	return 0;
 }
