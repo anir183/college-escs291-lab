@@ -1,3 +1,4 @@
+
 # ES-CS201 & ES-CS291 - CSCS (2024-2025)
 ### All Lab Programs given till date
 
@@ -90,11 +91,19 @@
 | 65  | Calculate result of series:  $1 + \frac{2^2}{2} + \frac{3^3}{3} + ... + \frac{n^n}{n}.$                                 | [Go 🡵 ](./project_65/main.c) |
 | 66  | Calculate result of series:  $x - \frac{x^3}{3!} + \frac{x^5}{5!} - \frac{x^7}{7!} + ... \frac{x^{2n + 1}}{(2n + 1)!}.$ | [Go 🡵 ](./project_66/main.c) |
 | 67  | Repeatedly divide a number by 2 and print the quotient each time.                                                       | [Go 🡵 ](./project_67/main.c) |
-| 68  | Print the pattern:<br>1<br>2 3<br>4 5 6<br>7 8 9 10                                                                     | [Go 🡵 ](./project_68/main.c) |
-| 69  | Print the pattern:<br>1<br>2 2<br>3 3 3<br>4 4 4 4                                                                      | [Go 🡵 ](./project_69/main.c) |
-| 70  | Print the pattern:<br>1<br>2 2 2<br>3 3 3 3 3<br>4 4 4 4 4 4 4                                                          | [Go 🡵 ](./project_70/main.c) |
-| 71  | Print the pattern:<br>5 5 5 5 5<br>4 4 4 4<br>3 3 3<br>2 2<br>1                                                         | [Go 🡵 ](./project_71/main.c) |
-| 72  | Print the pattern:<br>5<br>4 5<br>3 4 5<br>2 3 4 5<br>1 2 3 4 5                                                         | [Go 🡵 ](./project_72/main.c) |
-| 73  | Print the pattern:<br>\*<br>\* \* \*<br>\* \* \* \* \*<br>\* \* \* \* \* \* \*                                          | [Go 🡵 ](./project_73/main.c) |
-| 74  | Print the pattern:<br>1<br>0 1<br>1 0 1<br>0 1 0 1<br>1 0 1 0 1                                                         | [Go 🡵 ](./project_74/main.c) |
-| 75  | Print the pattern:<br>A<br>B B<br>C C C<br>D D D D                                                                      | [Go 🡵 ](./project_75/main.c) |
+| 68  | Print the pattern:<br>(1,1) (1,2) (1,3) ... (1,n)<br>(2,1) (2,2) (2,3) ... (2,n)<br>.<br>.<br>.<br>(n,1) (n,2) (n,3) ... (n,n)                                                                     | [Go 🡵 ](./project_68/main.c) |
+| 69  | Print the pattern using for loop:<br>1<br>2 3<br>4 5 6<br>7 8 9 10                                                                     | [Go 🡵 ](./project_69/main.c) |
+| 70  | Print the pattern using while loop:<br>1<br>2 3<br>4 5 6<br>7 8 9 10                                                                     | [Go 🡵 ](./project_70/main.c) |
+| 71  | Print the pattern:<br>1<br>2 2<br>3 3 3<br>4 4 4 4                                                                      | [Go 🡵 ](./project_71/main.c) |
+| 72  | Print the pattern:<br>1<br>2 2 2<br>3 3 3 3 3<br>4 4 4 4 4 4 4                                                          | [Go 🡵 ](./project_72/main.c) |
+| 73  | Print the pattern:<br>5 5 5 5 5<br>4 4 4 4<br>3 3 3<br>2 2<br>1                                                         | [Go 🡵 ](./project_73/main.c) |
+| 74  | Print the pattern:<br>5<br>4 5<br>3 4 5<br>2 3 4 5<br>1 2 3 4 5                                                         | [Go 🡵 ](./project_74/main.c) |
+| 75  | Print the pattern:<br>\*<br>\* \* \*<br>\* \* \* \* \*<br>\* \* \* \* \* \* \*                                          | [Go 🡵 ](./project_75/main.c) |
+| 76  | Print the pattern:<br>1<br>0 1<br>1 0 1<br>0 1 0 1<br>1 0 1 0 1                                                         | [Go 🡵 ](./project_76/main.c) |
+| 77  | Print the pattern:<br>A<br>B C<br>D E F<br>G H I J                                                                      | [Go 🡵 ](./project_77/main.c) |
+| 78  | Print the pattern:<br>A<br>B B<br>C C C<br>D D D D                                                                      | [Go 🡵 ](./project_78/main.c) |
+| 79  | Print the pattern:<br>      1<br>    1 2<br>  1 2 3<br>1 2 3 4                                                                     | [Go 🡵 ](./project_79/main.c) |
+| 80  | Print the pattern:<br>      1<br>    2 2<br>  3 3 3<br>4 4 4 4                                                                    | [Go 🡵 ](./project_80/main.c) |
+| 81  | Print the pattern:<br>5 5 5 5 5<br>  4 4 4 4<br>    3 3 3<br>      2 2<br>        1                                                                    | [Go 🡵 ](./project_81/main.c) |
+| 82  | Print the pattern:<br>5<br>5 4 5<br>3 4 5 4 3<br>2 3 4 5 4 3 2<br>1 2 3 4 5 4 3 2 1                                                                      | [Go 🡵 ](./project_82/main.c) |
+| 83  | Print the pattern:<br>        5<br>      4 5 4<br>    3 4 5 4 3<br>  2 3 4 5 4 3 2<br>1 2 3 4 5 4 3 2 1                                                                     | [Go 🡵 ](./project_83/main.c) |
