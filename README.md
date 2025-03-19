@@ -103,7 +103,8 @@
 | 77  | Print the pattern:<br>A<br>B C<br>D E F<br>G H I J                                                                      | [Go 🡵 ](./project_77/main.c) |
 | 78  | Print the pattern:<br>A<br>B B<br>C C C<br>D D D D                                                                      | [Go 🡵 ](./project_78/main.c) |
 | 79  | Print the pattern:<br>      1<br>    1 2<br>  1 2 3<br>1 2 3 4                                                                     | [Go 🡵 ](./project_79/main.c) |
-| 80  | Print the pattern:<br>      1<br>    2 2<br>  3 3 3<br>4 4 4 4                                                                    | [Go 🡵 ](./project_80/main.c) |
-| 81  | Print the pattern:<br>5 5 5 5 5<br>  4 4 4 4<br>    3 3 3<br>      2 2<br>        1                                                                    | [Go 🡵 ](./project_81/main.c) |
-| 82  | Print the pattern:<br>5<br>5 4 5<br>3 4 5 4 3<br>2 3 4 5 4 3 2<br>1 2 3 4 5 4 3 2 1                                                                      | [Go 🡵 ](./project_82/main.c) |
-| 83  | Print the pattern:<br>        5<br>      4 5 4<br>    3 4 5 4 3<br>  2 3 4 5 4 3 2<br>1 2 3 4 5 4 3 2 1                                                                     | [Go 🡵 ](./project_83/main.c) |
+| 80  | Print the pattern:<br>1<br>1 2 3<br>1 2 3 4 5<br>1 2 3 4 5 6 7                                                                    | [Go 🡵 ](./project_80/main.c) |
+| 81  | Print the pattern:<br>      1<br>    2 2<br>  3 3 3<br>4 4 4 4                                                                    | [Go 🡵 ](./project_81/main.c) |
+| 82  | Print the pattern:<br>5 5 5 5 5<br>  4 4 4 4<br>    3 3 3<br>      2 2<br>        1                                                                    | [Go 🡵 ](./project_82/main.c) |
+| 83  | Print the pattern:<br>5<br>5 4 5<br>3 4 5 4 3<br>2 3 4 5 4 3 2<br>1 2 3 4 5 4 3 2 1                                                                      | [Go 🡵 ](./project_83/main.c) |
+| 84  | Print the pattern:<br>        5<br>      4 5 4<br>    3 4 5 4 3<br>  2 3 4 5 4 3 2<br>1 2 3 4 5 4 3 2 1                                                                     | [Go 🡵 ](./project_84/main.c) |
