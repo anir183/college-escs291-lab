@@ -1,9 +1,8 @@
 #include <stdio.h>
 
-// Write a program to convert farenheit temperature from user to celcius
+// convert farenheit to celcius
 
-int main()
-{
+int main() {
 	// declarations
 	float farenheit, celcius;
 

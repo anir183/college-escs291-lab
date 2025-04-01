@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Write a program to print all the natural numbers in a range from the user
+// find all natural numbers in a range
 
 int main() {
 	// declarations

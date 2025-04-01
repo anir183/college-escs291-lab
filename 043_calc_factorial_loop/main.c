@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Write a program to calculate the factorial of a number using a for loop.
+// calculate the factorial of a number using for loop
 
 int main() {
 	// declarations
@@ -12,7 +12,7 @@ int main() {
 	scanf("%d", &num);
 
 	// calculation
-	for(i = 1; i <= num; i++) {
+	for (i = 1; i <= num; i++) {
 		fact *= i;
 	}
 

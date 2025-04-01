@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-// Write a program to find out the number of odd and even numbers in a range and add each alternate set of odd and even numbers together.
+// find out the number of odd and even numbers in a range and add each alternate
+// set of odd and even numbers together
 
 int main() {
 	// declarations

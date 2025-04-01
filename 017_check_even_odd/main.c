@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Write a program to check if a number from user is odd or even
+// check if number is even or odd
 
 int main() {
 	// declarations
@@ -13,8 +13,7 @@ int main() {
 	// check output
 	if (num % 2 == 0) {
 		printf("The number is EVEN");
-	}
-	else {
+	} else {
 		printf("The number is ODD");
 	}
 

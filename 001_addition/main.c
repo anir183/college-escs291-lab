@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Write a program to add two numbers from the user and print the output
+// perform addition
 
 int main() {
 	// declarations

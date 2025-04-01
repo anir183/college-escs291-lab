@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Write a program to calculate gross salary of an employee using basic salary from user
+// calculate gross salary given basic salary using ifelse
 
 int main() {
 	// declarations
@@ -15,16 +15,13 @@ int main() {
 	if (basic < 0) {
 		printf("\nInvalid basic salary");
 		basic = 0;
-	}
-	else if (basic <= 10000) {
+	} else if (basic <= 10000) {
 		hra = basic * 0.1;
 		da = basic * 0.15;
-	}
-	else if (basic <= 20000) {
+	} else if (basic <= 20000) {
 		hra = basic * 0.15;
 		da = basic * 0.2;
-	}
-	else if (basic > 20000) {
+	} else if (basic > 20000) {
 		hra = basic * 0.2;
 		da = basic * 0.3;
 	}

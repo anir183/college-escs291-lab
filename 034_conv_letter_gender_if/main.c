@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Write a program to print the gender given character from user
+// convert m or f to male of female using ifelse
 
 int main() {
 	// declarations
@@ -13,11 +13,9 @@ int main() {
 	// output
 	if (ch == 'm' || ch == 'M') {
 		printf("Male");
-	}
-	else if (ch == 'f' || ch == 'F') {
+	} else if (ch == 'f' || ch == 'F') {
 		printf("Female");
-	}
-	else {
+	} else {
 		printf("Other or Invalid gender");
 	}
 

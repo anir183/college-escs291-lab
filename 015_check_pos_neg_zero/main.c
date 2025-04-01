@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Write a program to check if a number from user is positive, negative or zero
+// check if number is +ve, -ve or 0
 
 int main() {
 	// declarations
@@ -13,11 +13,9 @@ int main() {
 	// check and output
 	if (num > 0) {
 		printf("The number is positive.");
-	}
-	else if (num < 0) {
+	} else if (num < 0) {
 		printf("The number is negative.");
-	}
-	else {
+	} else {
 		printf("The number is zero.");
 	}
 

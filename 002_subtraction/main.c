@@ -1,9 +1,8 @@
 #include <stdio.h>
 
-// Write a program to subtract two numbers from the user and print the output
+// perform subtraction
 
-int main()
-{
+int main() {
 	// declarations
 	int num1, num2, diff;
 

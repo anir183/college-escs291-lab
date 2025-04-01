@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Write a program to calculate the fibonacci series in a range.
+// calculate the fibonacci series in a range
 
 int main() {
 	// declarations

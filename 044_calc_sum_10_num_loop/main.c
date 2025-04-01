@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Write a program to print the sum of 10 user provided natural numbers
+// calculate the sum of 10 numbers entered by user using for loop
 
 int main() {
 	// declarations

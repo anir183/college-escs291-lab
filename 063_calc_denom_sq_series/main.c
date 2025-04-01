@@ -1,7 +1,7 @@
-#include <stdio.h>
 #include <math.h>
+#include <stdio.h>
 
-// Write a program to print the sum of series 1 + 1/2^2 + 1/3^3 + .. + 1/n^n
+// calculate result of series: 1 + 1/2^2 + 1/3^3 + .. + 1/n^n
 
 int main() {
 	// declarations

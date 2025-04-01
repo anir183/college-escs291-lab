@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Write a program to check is a year from user is leap or not
+// check if leap year or not
 
 int main() {
 	// declarations
@@ -13,8 +13,7 @@ int main() {
 	// check and output
 	if (year % 400 == 0 || (year % 4 == 0 && year % 100 != 0)) {
 		printf("The year is a Leap year.");
-	}
-	else {
+	} else {
 		printf("The year is NOT a Leap year.");
 	}
 

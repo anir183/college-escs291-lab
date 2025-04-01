@@ -1,7 +1,7 @@
-#include <stdio.h>
 #include <math.h>
+#include <stdio.h>
 
-// Write a program to find the roots of a quadratic equatoin with parameters from user
+// calculate roots of quadratic equation
 
 int main() {
 	// declarations
@@ -23,8 +23,7 @@ int main() {
 		root1 = (-b + D) / 2 * a;
 		root2 = (-b - D) / 2 * a;
 		printf("\nThe roots are %lf and %lf", root1, root2);
-	}
-	else {
+	} else {
 		printf("\nImaginary roots");
 	}
 

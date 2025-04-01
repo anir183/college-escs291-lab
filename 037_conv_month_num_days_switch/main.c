@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Write a program to print the number of days in a month from user
+// convert month number to number of days in that month \[switch\]
 
 int main() {
 	// declarations

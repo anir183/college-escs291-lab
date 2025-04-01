@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Write a program to calculate the GCD of two number.
+// calculate the gcd of two numbers
 
 int main() {
 	// declarations

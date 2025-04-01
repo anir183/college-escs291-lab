@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Write a program to find the max and min of two numbers from user
+// find max and min of 2 numbers
 
 int main() {
 	// declarations
@@ -18,8 +18,7 @@ int main() {
 	if (num1 > num2) {
 		max = num1;
 		min = num2;
-	}
-	else if (num2 > num1) {
+	} else if (num2 > num1) {
 		max = num2;
 		min = num1;
 	}

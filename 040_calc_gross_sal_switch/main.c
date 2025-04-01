@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Write a program to calculate gross salary of an employee using basic salary from user
+// calcualte gross salary given basic salary using switch
 
 int main() {
 	// declarations
@@ -19,13 +19,13 @@ int main() {
 			da = basic * 0.15;
 			break;
 
-			// (10000 to 19999) / 10000 = 1
+		// (10000 to 19999) / 10000 = 1
 		case 1:
 			hra = basic * 0.15;
 			da = basic * 0.2;
 			break;
 
-			// 20000+
+		// 20000+
 		default:
 			hra = basic * 0.2;
 			da = basic * 0.3;

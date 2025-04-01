@@ -1,7 +1,7 @@
-#include <stdio.h>
 #include <math.h>
+#include <stdio.h>
 
-// Write a program to print the sum of series -x + x^2 - x^3 + ... x^n
+// calculate result of series: -x + x^2 - x^3 + ... x^n
 
 int main() {
 	// declarations

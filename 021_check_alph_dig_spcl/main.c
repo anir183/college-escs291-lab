@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Write a program to check if a character from user is an alphabet, digit or special character
+// check is alphabet, digit or special character
 
 int main() {
 	// declarations
@@ -13,11 +13,9 @@ int main() {
 	// check and output
 	if ((ch >= 'A' && ch <= 'Z') || (ch >= 'a' && ch <= 'z')) {
 		printf("The character is an Alphabet.");
-	}
-	else if (ch >= '0' && ch <= '9') {
+	} else if (ch >= '0' && ch <= '9') {
 		printf("The character is a Number.");
-	}
-	else {
+	} else {
 		printf("The character is a Special Character.");
 	}
 

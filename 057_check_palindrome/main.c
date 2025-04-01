@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Write a program to check whether a program is Palindrome or not.
+// check whether a number is palindrome or not
 
 int main() {
 	// declarations
@@ -19,8 +19,7 @@ int main() {
 	// checks and output
 	if (rev == num) {
 		printf("The number is Palindrome");
-	}
-	else {
+	} else {
 		printf("The number is NOT Palindrome.");
 	}
 

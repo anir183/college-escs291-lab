@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Write a program to print the grade given the marks from the user following MAKAUT standards
+// convert marks to grade as per makaut regulations using ifelse
 
 int main() {
 	// declarations
@@ -13,26 +13,19 @@ int main() {
 	// calculations and output
 	if (marks > 100 || marks < 0) {
 		printf("Invalid marks");
-	}
-	else if (marks >= 90) {
+	} else if (marks >= 90) {
 		printf("Grade = O");
-	}
-	else if (marks >= 80) {
+	} else if (marks >= 80) {
 		printf("Grade = E");
-	}
-	else if (marks >= 70) {
+	} else if (marks >= 70) {
 		printf("Grade = A");
-	}
-	else if (marks >= 60) {
+	} else if (marks >= 60) {
 		printf("Grade = B");
-	}
-	else if (marks >= 50) {
+	} else if (marks >= 50) {
 		printf("Grade = C");
-	}
-	else if (marks >= 40) {
+	} else if (marks >= 40) {
 		printf("Grade = D");
-	}
-	else {
+	} else {
 		printf("Grade = F");
 	}
 

@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Write a program to check whether a number is prime or not.
+// check whether a number is prime or not
 
 int main() {
 	// declarations

@@ -1,7 +1,7 @@
-#include <stdio.h>
 #include <math.h>
+#include <stdio.h>
 
-// Write a program to print the sum of series 1 + x/1! + x^2/2! + x^3/3! + ... + x^n/n!
+// calculate result of series: 1 + x/1! + x^2/2! + x^3/3! + ... + x^n/n!
 
 int main() {
 	// declarations

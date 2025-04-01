@@ -1,7 +1,8 @@
-#include <stdio.h>
 #include <math.h>
+#include <stdio.h>
 
-// Write a program to print the sum of series x - x^3/3! + x^5/5! - x^7/7! + ... x^(2n + 1)/(2n + 1)!
+// calculate result of series: x - x^3/3! + x^5/5! - x^7/7! + ... x^(2n + 1)/(2n
+// + 1)!
 
 int main() {
 	// declarations

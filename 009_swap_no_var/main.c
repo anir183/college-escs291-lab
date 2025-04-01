@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Write a program to swap two numbers from user using a third variable
+// swap 2 numbers without variable
 
 int main() {
 	// declarations

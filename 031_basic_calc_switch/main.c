@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Write a program to take perform mathematical operation using operator and number from user
+// convert symbol to mathematical operation (basic calculator) using switch
 
 int main() {
 	// declarations
@@ -26,7 +26,7 @@ int main() {
 			result = num1 - num2;
 			break;
 		case '/':
-			result = (float) num1 / num2;
+			result = (float)num1 / num2;
 			break;
 		case '*':
 			result = num1 * num2;
@@ -36,7 +36,7 @@ int main() {
 			break;
 		default:
 			printf("\nInvalid operator");
-			operator = 'X';
+			operator= 'X';
 			result = 0;
 	}
 

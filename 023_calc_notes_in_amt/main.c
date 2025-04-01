@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Write a program to calculate how many notes are there in an amount from user
+// calculate total number of different notes in a given amount
 
 int main() {
 	// declarations

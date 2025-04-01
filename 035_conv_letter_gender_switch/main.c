@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Write a program to print the gender given character from user
+// convert m or f to male of female using switch
 
 int main() {
 	// declarations

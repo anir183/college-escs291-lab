@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Write a program to reverse a number and print the digits.
+// reverse a number and print the digits
 
 int main() {
 	// declarations
@@ -18,7 +18,6 @@ int main() {
 		rev = rev * 10 + i % 10;
 	}
 	printf("\nThe reverse is %ld", rev);
-
 
 	// exit with code 0
 	return 0;

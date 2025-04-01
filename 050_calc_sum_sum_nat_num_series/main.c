@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Write a program to print the sum of series 1 + (1 + 2) + (1 + 2 + 3) + ...
+// calculate result of series: 1 + (1 + 2) + (1 + 2 + 3) + ...
 
 int main() {
 	// declarations

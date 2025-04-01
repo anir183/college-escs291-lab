@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Write a program to reverse and sum the digits of a 5 digit number from the user without using loops
+// reverse 5 digit number without loops
 
 int main() {
 	// declarations

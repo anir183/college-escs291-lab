@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Write a program to check if an alphabet from user is a vowel or consonant
+// check whether vowel or consonant using switch
 
 int main() {
 	// declarations

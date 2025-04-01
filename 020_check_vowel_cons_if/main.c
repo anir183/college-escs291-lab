@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Write a program to check if an alphabet from user is a vowel or consonant
+// check is vowel or consonant using ifelse
 
 int main() {
 	// declarations
@@ -12,13 +12,12 @@ int main() {
 
 	// check and output
 	alph = alph > 'Z' ? alph - 32 : alph;
-	if (alph == 'A' || alph == 'E' || alph == 'I' || alph == 'O' || alph == 'U') {
+	if (alph == 'A' || alph == 'E' || alph == 'I' || alph == 'O' ||
+	    alph == 'U') {
 		printf("The alphabet is a Vowel.");
-	}
-	else if (alph >= 'A' && alph <= 'Z') {
+	} else if (alph >= 'A' && alph <= 'Z') {
 		printf("The alphabet is a Consonant.");
-	}
-	else {
+	} else {
 		printf("The character is NOT an alphabet.");
 	}
 

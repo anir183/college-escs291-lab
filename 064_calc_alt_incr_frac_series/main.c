@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Write a program to print the sum of series 1/2 + 2/3 + 2/4 + .. + n/n + 1
+// calculate result of series: 1/2 + 2/3 + 2/4 + .. + n/n + 1
 
 int main() {
 	// declarations

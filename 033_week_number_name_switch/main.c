@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Write a program to print the week day name from the week day number from user
+// convert week-day number to week-day name using switch
 
 int main() {
 	// declarations

@@ -1,7 +1,7 @@
-#include <stdio.h>
 #include <math.h>
+#include <stdio.h>
 
-// Write a program to check if a number is Armstrong or not.
+// check if a number is armstrong or not
 
 int main() {
 	// declarations
@@ -14,7 +14,8 @@ int main() {
 
 	// calculations
 	temp = num;
-	for(numOfDig = 0; temp > 0; numOfDig++, temp /= 10);
+	for (numOfDig = 0; temp > 0; numOfDig++, temp /= 10)
+		;
 	for (i = num; i > 0; i /= 10) {
 		sumOfPower += pow(i % 10, numOfDig);
 	}
@@ -22,8 +23,7 @@ int main() {
 	// check and output
 	if (num == sumOfPower) {
 		printf("The number is Armstrong");
-	}
-	else {
+	} else {
 		printf("The number is NOT Armstrong");
 	}
 

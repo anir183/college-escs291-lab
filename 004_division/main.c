@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Write a program to divide two numbers from the user and print the output
+// perform division
 
 int main() {
 	// declarations
@@ -15,7 +15,7 @@ int main() {
 	scanf("%d", &num2);
 
 	// calculations
-	quot = (float) num1 / num2;
+	quot = (float)num1 / num2;
 
 	// output
 	printf("Sum (a / b) = %f", quot);

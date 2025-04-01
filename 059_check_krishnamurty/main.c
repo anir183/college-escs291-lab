@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Write a program to check if a number is Krishnamurty or not.
+// check if a number is krishnamurty or not
 
 int main() {
 	// declarations
@@ -23,8 +23,7 @@ int main() {
 	// checks and output
 	if (factSum == num) {
 		printf("The number is Krishnamurty");
-	}
-	else {
+	} else {
 		printf("The number is NOT Krishnamurty");
 	}
 

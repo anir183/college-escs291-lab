@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Write a program to check if a triangle is valid using the angles from user
+// check angles and verify if triangle is valid
 
 int main() {
 	// declarations
@@ -14,12 +14,10 @@ int main() {
 	if (angle1 + angle2 + angle3 == 180) {
 		if (angle1 > 0 && angle2 > 0 && angle3 > 0) {
 			printf("Valid triangle!");
-		}
-		else {
+		} else {
 			printf("Invalid triangle");
 		}
-	}
-	else {
+	} else {
 		printf("Invalid triangle");
 	}
 

@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Write a program to take perform mathematical operation using operator and number from user
+// convert symbol to mathematical operation (basic calculator) using ifelse
 
 int main() {
 	// declarations
@@ -18,24 +18,19 @@ int main() {
 	scanf("%d", &num2);
 
 	// calculations
-	if (operator == '+') {
+	if (operator== '+') {
 		result = num1 + num2;
-	}
-	else if (operator == '-') {
+	} else if (operator== '-') {
 		result = num1 - num2;
-	}
-	else if (operator == '*') {
+	} else if (operator== '*') {
 		result = num1 * num2;
-	}
-	else if (operator == '/') {
-		result = (float) num1 / num2;
-	}
-	else if (operator == '%') {
+	} else if (operator== '/') {
+		result = (float)num1 / num2;
+	} else if (operator== '%') {
 		result = num1 % num2;
-	}
-	else {
+	} else {
 		printf("\nInvalid operator");
-		operator = 'X';
+		operator= 'X';
 		result = 0;
 	}
 

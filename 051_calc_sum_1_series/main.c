@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Write a program to print the sum of series 1 + 11 + 111 + 1111 + ...
+// calculate result of series: 1 + 11 + 111 + 1111 + ...
 
 int main() {
 	// declarations

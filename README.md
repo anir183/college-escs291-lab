@@ -30,7 +30,7 @@
 | 25  | Check angles and verify if triangle is valid.                                                                                  | [Go 🡵 ](./025_check_tri_valid/main.c)             |
 | 26  | Check if triangle is equilateral or isosceles.                                                                                 | [Go 🡵 ](./026_check_equi_isos/main.c)             |
 | 27  | Calculate roots of quadratic equation.                                                                                         | [Go 🡵 ](./027_calc_quad_roots/main.c)             |
-| 28  | Calculate gross salary given basic salary (IFLESE):                                                                            | [Go 🡵 ](./028_calc_gross_sal_if/main.c)           |
+| 28  | Calculate gross salary given basic salary \[IFLESE\]:                                                                          | [Go 🡵 ](./028_calc_gross_sal_if/main.c)           |
 |     | Salary <= 10K, HRA = 10%, DA = 15%                                                                                             |                                                   |
 |     | Salary <= 20K, HRA = 15%, DA = 20%                                                                                             |                                                   |
 |     | Salary > 20K, HRA = 20%, DA = 30%                                                                                              |                                                   |

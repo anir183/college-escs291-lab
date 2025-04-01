@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Write a program to perform all mathematical operations on two numbers from the user and print the output
+// perform all mathematical operations (consisting of 1-4)
 
 int main() {
 	// declarations
@@ -18,9 +18,9 @@ int main() {
 	sum = num1 + num2;
 	diff = num1 - num2;
 	prod = num1 * num2;
-	quot = (float) num1 / num2;
+	quot = (float)num1 / num2;
 
-	//output
+	// output
 	printf("\nSum (a + b) = %d", sum);
 	printf("\nDifference (a - b) = %d", diff);
 	printf("\nProduct (a * b) = %d", prod);

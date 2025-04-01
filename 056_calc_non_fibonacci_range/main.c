@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Write a program to calculate the non-fibonacci series in a range
+// calculate the non-fibonacci numbers in a range
 
 int main() {
 	// declarations

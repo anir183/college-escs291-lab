@@ -1,14 +1,14 @@
 #include <stdio.h>
 
-// Write a program to print the numbers from 1 to 10 using a for loop.
+// print the numbers 1 to 10 using for loop
 
 int main() {
 	// declarations
 	int i;
 
-	//output
+	// output
 	printf("1 to 10:\n");
-	for(i = 1; i <= 10; i++) {
+	for (i = 1; i <= 10; i++) {
 		printf("%d  ", i);
 	}
 

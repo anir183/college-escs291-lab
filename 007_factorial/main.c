@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Write a program to find the factorial of a number from the user
+// calculate factorial of a given number
 
 int main() {
 	// declarations

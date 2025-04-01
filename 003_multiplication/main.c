@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Write a program to multiply two numbers from the user and print the output
+// perform multiplication
 
 int main() {
 	// declarations

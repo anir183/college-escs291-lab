@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Write a program to print the sum of natural numbers in a range from user
+// calculate sum of all numbers in a range
 
 int main() {
 	// declarations
