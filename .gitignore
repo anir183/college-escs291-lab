@@ -14,3 +14,11 @@
 */obj/**
 **/obj/*
 */obj/*
+*/*.layout
+**/*.layout
+*/*.depend
+**/*.depend
+*/*.workspace
+**/*.workspace
+*/*.workspace.layout
+**/*.workspace.layout
