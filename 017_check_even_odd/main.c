@@ -8,7 +8,7 @@ int main() {
 
 	// input
 	printf("Enter a number: ");
-	scanf("%d", &num);
+	scanf_s("%d", &num);
 
 	// check output
 	if (num % 2 == 0) {

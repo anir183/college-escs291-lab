@@ -8,7 +8,7 @@ int main() {
 
 	// input
 	printf("Enter the month number (1-12): ");
-	scanf("%d", &month_num);
+	scanf_s("%d", &month_num);
 
 	// output
 	switch (month_num) {

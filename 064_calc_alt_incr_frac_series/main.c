@@ -9,7 +9,7 @@ int main() {
 
 	// input
 	printf("n: ");
-	scanf("%f", &n);
+	scanf_s("%f", &n);
 
 	// calculation
 	for (i = 1; i <= n; i++) {

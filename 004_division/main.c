@@ -10,9 +10,9 @@ int main() {
 	// input
 	printf("Calculating a / b");
 	printf("\na = ");
-	scanf("%d", &num1);
+	scanf_s("%d", &num1);
 	printf("b = ");
-	scanf("%d", &num2);
+	scanf_s("%d", &num2);
 
 	// calculations
 	quot = (float)num1 / num2;

@@ -11,11 +11,11 @@ int main() {
 	// input
 	printf("Calculate roots of quadratic eqn (ax^2 + bx + c = 0):");
 	printf("\na = ");
-	scanf("%d", &a);
+	scanf_s("%d", &a);
 	printf("b = ");
-	scanf("%d", &b);
+	scanf_s("%d", &b);
 	printf("c = ");
-	scanf("%d", &c);
+	scanf_s("%d", &c);
 
 	// calculations and output
 	D = pow(b * b - 4 * a * c, 0.5);

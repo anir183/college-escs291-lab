@@ -8,7 +8,7 @@ int main() {
 
 	// input
 	printf("Enter a number: ");
-	scanf("%d", &num);
+	scanf_s("%d", &num);
 
 	// check and output
 	for (i = 2; i <= (num / 2 + 1); i++) {

@@ -8,11 +8,11 @@ int main() {
 
 	// input
 	printf("Enter first number: ");
-	scanf("%d", &num1);
+	scanf_s("%d", &num1);
 	printf("Enter second number: ");
-	scanf("%d", &num2);
+	scanf_s("%d", &num2);
 	printf("Enter third number: ");
-	scanf("%d", &num3);
+	scanf_s("%d", &num3);
 
 	// calculations
 	max = num1;

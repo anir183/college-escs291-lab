@@ -8,7 +8,7 @@ int main() {
 
 	// input
 	printf("n: ");
-	scanf("%d", &n);
+	scanf_s("%d", &n);
 
 	// calculation
 	for (i = 1; i <= n; i++)

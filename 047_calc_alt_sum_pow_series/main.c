@@ -10,9 +10,9 @@ int main() {
 
 	// input
 	printf("x: ");
-	scanf("%d", &x);
+	scanf_s("%d", &x);
 	printf("n: ");
-	scanf("%d", &n);
+	scanf_s("%d", &n);
 
 	// calculation
 	for (i = 1; i <= n; i++)

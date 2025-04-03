@@ -8,7 +8,7 @@ int main() {
 
 	// input
 	printf("Enter an alphabet: ");
-	scanf("%c", &alph);
+	scanf_s("%c", &alph);
 
 	// check and output
 	if (alph >= 'a' && alph <= 'z') {

@@ -9,10 +9,10 @@ int main() {
 
 	// input
 	printf("Enter a number: ");
-	scanf("%d", &num);
+	scanf_s("%d", &num);
 	printf("\nConversion Menu:\n1 - Convert to Binary\n2 - Convert to "
 	       "Decimal\nEnter choice: ");
-	scanf("%d", &choice);
+	scanf_s("%d", &choice);
 
 	// calculations
 	switch (choice) {

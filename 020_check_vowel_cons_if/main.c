@@ -8,7 +8,7 @@ int main() {
 
 	// input
 	printf("Enter an alphabet: ");
-	scanf("%c", &alph);
+	scanf_s("%c", &alph);
 
 	// check and output
 	alph = alph > 'Z' ? alph - 32 : alph;

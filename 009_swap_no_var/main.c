@@ -9,9 +9,9 @@ int main() {
 	// input
 	printf("Swap");
 	printf("\na = ");
-	scanf("%d", &num1);
+	scanf_s("%d", &num1);
 	printf("b = ");
-	scanf("%d", &num2);
+	scanf_s("%d", &num2);
 
 	// before
 	printf("\nBefore swapping, a = %d and b = %d", num1, num2);

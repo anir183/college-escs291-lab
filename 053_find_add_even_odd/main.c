@@ -9,9 +9,9 @@ int main() {
 
 	// input
 	printf("Enter a lower bound: ");
-	scanf("%d", &lower);
+	scanf_s("%d", &lower);
 	printf("Enter a upper bound: ");
-	scanf("%d", &upper);
+	scanf_s("%d", &upper);
 
 	// calculations and output
 	printf("\nThe even numbers are:\n");

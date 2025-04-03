@@ -8,9 +8,9 @@ int main() {
 
 	// input
 	printf("Lower limit: ");
-	scanf("%d", &lower);
+	scanf_s("%d", &lower);
 	printf("Upper limit: ");
-	scanf("%d", &upper);
+	scanf_s("%d", &upper);
 
 	// output
 	i = lower;

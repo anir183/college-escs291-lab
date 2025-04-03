@@ -8,7 +8,7 @@ int main() {
 
 	// input
 	printf("Enter a week day number (1-7): ");
-	scanf("%d", &day_num);
+	scanf_s("%d", &day_num);
 
 	// output
 	if (day_num == 1) {

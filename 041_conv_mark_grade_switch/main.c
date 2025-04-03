@@ -8,7 +8,7 @@ int main() {
 
 	// input
 	printf("Enter the marks: ");
-	scanf("%d", &marks);
+	scanf_s("%d", &marks);
 
 	// calculations and output
 	switch (marks / 10) {

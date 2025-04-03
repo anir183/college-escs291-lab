@@ -8,7 +8,7 @@ int main() {
 
 	// input
 	printf("Enter the gender character (M/F): ");
-	scanf("%c", &ch);
+	scanf_s("%c", &ch);
 
 	// output
 	switch (ch) {

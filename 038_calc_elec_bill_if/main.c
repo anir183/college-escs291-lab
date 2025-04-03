@@ -9,7 +9,7 @@ int main() {
 
 	// input
 	printf("Enter the amount of units consumed: ");
-	scanf("%d", &units);
+	scanf_s("%d", &units);
 
 	// calculations
 	if (units < 0) {

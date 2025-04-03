@@ -9,9 +9,9 @@ int main() {
 	// input
 	printf("Calculate a - b:");
 	printf("\na = ");
-	scanf("%d", &num1);
+	scanf_s("%d", &num1);
 	printf("b = ");
-	scanf("%d", &num2);
+	scanf_s("%d", &num2);
 
 	// calculations
 	diff = num1 - num2;

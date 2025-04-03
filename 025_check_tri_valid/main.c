@@ -8,7 +8,7 @@ int main() {
 
 	// input
 	printf("Enter the angles of a triangle (eg 20,90,70): ");
-	scanf("%d,%d,%d", &angle1, &angle2, &angle3);
+	scanf_s("%d,%d,%d", &angle1, &angle2, &angle3);
 
 	// check and output
 	if (angle1 + angle2 + angle3 == 180) {

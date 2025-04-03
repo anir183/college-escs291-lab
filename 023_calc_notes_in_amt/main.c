@@ -8,7 +8,7 @@ int main() {
 
 	// input
 	printf("Enter an amount: Rs.");
-	scanf("%d", &amount);
+	scanf_s("%d", &amount);
 
 	// calculations
 	fh = amount / 500;

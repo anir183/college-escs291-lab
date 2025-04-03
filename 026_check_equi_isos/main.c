@@ -9,7 +9,7 @@ int main() {
 	// input
 	printf(
 	    "Enter the angles OR sides of the triangle (eg 3,4,5 or 90,45,45): ");
-	scanf("%d,%d,%d", &val1, &val2, &val3);
+	scanf_s("%d,%d,%d", &val1, &val2, &val3);
 
 	// check and output
 	if (val1 == val2 && val2 == val3) {

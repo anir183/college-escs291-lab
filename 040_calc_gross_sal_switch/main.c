@@ -9,7 +9,7 @@ int main() {
 
 	// input
 	printf("Enter the basic salary: Rs.");
-	scanf("%d", &basic);
+	scanf_s("%d", &basic);
 
 	// calculations
 	switch ((basic - 1) / 10000) {

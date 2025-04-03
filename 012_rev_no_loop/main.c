@@ -9,7 +9,7 @@ int main() {
 
 	// input
 	printf("Enter a 5-digit number: ");
-	scanf("%ld", &num);
+	scanf_s("%ld", &num);
 
 	// reversing
 	rev = rev * 10 + num % 10;

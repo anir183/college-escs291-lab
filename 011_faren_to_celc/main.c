@@ -8,7 +8,7 @@ int main() {
 
 	// input
 	printf("Enter farenheit temp: ");
-	scanf("%f", &farenheit);
+	scanf_s("%f", &farenheit);
 
 	// calculations
 	celcius = (farenheit - 32) * 5 / 9;

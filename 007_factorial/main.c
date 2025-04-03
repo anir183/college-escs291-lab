@@ -9,7 +9,7 @@ int main() {
 
 	// input
 	printf("Enter a number: ");
-	scanf("%d", &num);
+	scanf_s("%d", &num);
 
 	// calculations
 	i = 1;

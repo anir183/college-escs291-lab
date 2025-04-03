@@ -10,7 +10,7 @@ int main() {
 	printf("Enter 10 natural numbers:\n");
 	for (i = 0; i < 10; i++) {
 		printf("%d: ", i + 1);
-		scanf("%d", &num);
+		scanf_s("%d", &num);
 		prod *= num;
 	}
 

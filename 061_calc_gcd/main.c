@@ -8,9 +8,9 @@ int main() {
 
 	// input
 	printf("Enter first number: ");
-	scanf("%d", &num1);
+	scanf_s("%d", &num1);
 	printf("Enter second number: ");
-	scanf("%d", &num2);
+	scanf_s("%d", &num2);
 
 	// calculations
 	if (num1 > num2) {

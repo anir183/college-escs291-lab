@@ -8,7 +8,7 @@ int main() {
 
 	// input
 	printf("Enter a year: ");
-	scanf("%d", &year);
+	scanf_s("%d", &year);
 
 	// check and output
 	if (year % 400 == 0 || (year % 4 == 0 && year % 100 != 0)) {

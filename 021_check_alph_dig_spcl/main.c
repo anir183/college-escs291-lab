@@ -8,7 +8,7 @@ int main() {
 
 	// input
 	printf("Enter a character: ");
-	scanf("%c", &ch);
+	scanf_s("%c", &ch);
 
 	// check and output
 	if ((ch >= 'A' && ch <= 'Z') || (ch >= 'a' && ch <= 'z')) {
