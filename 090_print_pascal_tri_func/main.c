@@ -28,8 +28,7 @@ int main() {
 
 // function definitions
 void display_pascal(int n) {
-	int tri_mtrx[n][n];
-	int i, j;
+	int tri_mtrx[n][n], i, j;
 
 	// NOTE : we can calculate and display together, but i just wanted to
 	// seperate them
