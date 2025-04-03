@@ -5,7 +5,7 @@
 int main() {
 	// declarations
 	int num, i;
-	double fact = 1;
+	long long fact = 1;
 
 	// input
 	printf("Enter a number: ");
@@ -19,7 +19,7 @@ int main() {
 	}
 
 	// output
-	printf("Factorial = %f", fact);
+	printf("Factorial = %lld", fact);
 
 	// exit with code 0
 	return 0;

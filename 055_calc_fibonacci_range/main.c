@@ -13,7 +13,7 @@ int main() {
 	scanf_s("%d", &upper);
 
 	// calculations and output
-	printf("The required part of the fibonacci series is:\n");
+	printf("\nThe required part of the fibonacci series is:\n");
 	for (i = 0; i <= upper; i += last, last = i - last) {
 		if (i >= lower) {
 			printf("%d  ", i);

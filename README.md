@@ -137,6 +137,8 @@
 | 89  | Check whether a number is Adam or not using a function.                                                                        | [Go 🡵 ](./089_check_adam_function/main.c)         |
 | 90  | Print the pascal triangle using a function.                                                                                    | [Go 🡵 ](./090_print_pascal_tri_func/main.c)       |
 |     | 1<br>1 1<br>1 2 1<br>1 3 3 1<br>1 4 6 4 1                                                                                      |                                                   |
+| 91  | Declare 2 un-scanned variables, pass to function, increment them and print them in main and the function itself.               | [Go 🡵 ](./091_incr_pass_print_vars_func/main.c)   |
+| 92  | Swap two values using both Call by Value and Call by Reference.                                                                | [Go 🡵 ](./092_swap_diff_calls_func/main.c)        |
 | 93  | Reverse a 5 digit number and check whether it is Palindrome or not using a function.                                           | [Go 🡵 ](./093_rev_check_palindrome_func/main.c)   |
 | 94  | Input an array of 10 numbers and increment each element by one in a seperate function.                                         | [Go 🡵 ](./094_incr_arr_elems_func/main.c)         |
 | 95  | Calculate the sum of the elements of an array in a seperate function and print the sum in main().                              | [Go 🡵 ](./095_sum_arr_elems_func/main.c)          |
@@ -156,3 +158,4 @@
 | 109 | Convert farenheit to celcius using pointers.                                                                                   | [Go 🡵 ](./109_faren_to_celc_ptr/main.c)           |
 | 110 | Calculate factorial of a given number using pointers.                                                                          | [Go 🡵 ](./110_calc_factorial_ptr/main.c)          |
 | 111 | Count the number of duplicate numbers in an array.                                                                             | [Go 🡵 ](./111_cnt_dupl_arr_nums_func/main.c)      |
+| 112 | Take two arrays, merge them, sort the resultant array and eliminate duplicate elements in another array.                       | [Go 🡵 ](./112_mrg_sort_elim_dupl_arr_func/main.c) |
