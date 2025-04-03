@@ -1,6 +1,9 @@
 # ES-CS201 & ES-CS291 - CSCS (2024-2025)
 ### All Lab Programs given till date
 
+> [!IMPORTANT]
+> Make sure to replace all `scanf_s` statements by `scanf` while writing
+
 | Sl. | Question                                                                                                                       | Program                                           |
 | :-: | ------------------------------------------------------------------------------------------------------------------------------ | :-----------------------------------------------: |
 | 1   | Perform addition.                                                                                                              | [Go 🡵 ](./001_addition/main.c)                    |
@@ -113,8 +116,8 @@
 | 78  | Print the following pattern:                                                                                                   | [Go 🡵 ](./078_pattern_10/main.c)                  |
 |     | A<br>B B<br>C C C<br>D D D D<br>E E E E E                                                                                      |                                                   |
 | 79  | Print the following pattern:                                                                                                   | [Go 🡵 ](./079_pattern_11/main.c)                  |
-| 80  | Print the following pattern:                                                                                                   | [Go 🡵 ](./080_pattern_12/main.c)                  |
 |     | A<br>B C<br>D E F<br>G H I J<br>K L M N O                                                                                      |                                                   |
+| 80  | Print the following pattern:                                                                                                   | [Go 🡵 ](./080_pattern_12/main.c)                  |
 |     | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5 4<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5 4 3<br>&nbsp;&nbsp;&nbsp;5 4 3 2<br>5 4 3 2 1 | |
 | 81  | Print the following pattern:                                                                                                   | [Go 🡵 ](./081_pattern_13/main.c)                  |
 |     | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2 2<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3 3 3<br>&nbsp;&nbsp;&nbsp;4 4 4 4<br>5 5 5 5 5 | |
