@@ -68,7 +68,7 @@
 |     | Gross Salary = Salary + HRA + DA.                                                                                              |                                                   |
 | 41  | Convert marks to grade as per MAKAUT regulations \[SWITCH\].                                                                   | [Go 🡵 ](./041_conv_mark_grade_switch/main.c)      |
 | 42  | Print the numbers 1 to 10 using for loop.                                                                                      | [Go 🡵 ](./042_print_1_10_loop/main.c)             |
-| 43  | Calculate the factorial of a number using for loop.                                                                            | [Go 🡵 ](./043_calc_factorial_loop/main.c)         |
+| 43  | Calculate the factorial of a number using for loop.                                                                            | [Go 🡵 ](./043_calc_factorial_for_loop/main.c)     |
 | 44  | Calculate the sum of 10 numbers entered by user using for loop.                                                                | [Go 🡵 ](./044_calc_sum_10_num_loop/main.c)        |
 | 45  | Calculate the product of 10 numbers entered by user using for loop.                                                            | [Go 🡵 ](./045_calc_prod_10_num_loop/main.c)       |
 | 46  | Calculate result of series:  $1 + x + x^2 + x^3 + ... + x^n.$                                                                  | [Go 🡵 ](./046_calc_sum_pow_series/main.c)         |
