@@ -159,3 +159,8 @@
 | 110 | Calculate factorial of a given number using pointers.                                                                          | [Go 🡵 ](./110_calc_factorial_ptr/main.c)          |
 | 111 | Count the number of duplicate numbers in an array.                                                                             | [Go 🡵 ](./111_cnt_dupl_arr_nums_func/main.c)      |
 | 112 | Take two arrays, merge them, sort the resultant array and eliminate duplicate elements in another array.                       | [Go 🡵 ](./112_mrg_sort_elim_dupl_arr_func/main.c) |
+| 113 | Add two matrices using 2D arrays and functions.                                                                                | [Go 🡵 ](./113_add_mtrcs_func/main.c)              |
+| 114 | Subtract two matrices using 2D arrays and functions.                                                                           | [Go 🡵 ](./114_subt_mtrcs_func/main.c)             |
+| 115 | Transpose a matrix using 2D arrays and functions.                                                                              | [Go 🡵 ](./115_trnsp_mtrx_func/main.c)             |
+| 116 | Multiply two matrices using 2D arrays and functions.                                                                           | [Go 🡵 ](./116_mult_mtrcs_func/main.c)             |
+| 117 | Add, Subtract, Transpose and Multiply one/two matrices using 2D arrays and functions.                                          | [Go 🡵 ](./117_add_subt_trnsp_mult_mtrcs/main.c)   |
